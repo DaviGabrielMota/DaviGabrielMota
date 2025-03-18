@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• ⌨️ I'm learning Python<br>• 🥊 I do Boxing<br>• 📌 My currently goals are: Have a job in the I.T field and get an advanced level in Python</p>
+<p align="left">• ⌨️ I'm learning Java<br>• 🥊 I do Boxing<br>• 📌 My currently goals are: Have a job in the I.T field and get an advanced level in Python</p>
 
 ###
 
