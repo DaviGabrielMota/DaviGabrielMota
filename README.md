@@ -6,15 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">• ⌨️ I'm learning Java<br>• 🥊 I do Boxing<br>• 📌 My currently goal is to get an advanced level in coding</p>
-
-###
-
-<h2 align="left">Technologies that I use</h2>
+<h2 align="left">Technologies that I've used</h2>
 
 ###
 
@@ -32,31 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/davimotaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="dav1thegreat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="davimota.workspace@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviGabrielMota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
